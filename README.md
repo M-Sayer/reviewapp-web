@@ -1,5 +1,11 @@
 Live Link: https://review-app-sage.vercel.app
 
+React Native Client:
+expo link: https://expo.io/@sayer/projects/mobile
+Repo Link: https://github.com/M-Sayer/reviewapp-mobile
+
+API Repo: https://github.com/M-Sayer/reviewapp-api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
